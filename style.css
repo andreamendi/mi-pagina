@@ -44,7 +44,7 @@ footer{
 }
 .no_son_ladrillos-footer{
     display: inline-block;
-    margin: 30px 120px 0 150px;
+    margin: 30px 100px 0 180px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 50px;
 }
@@ -81,4 +81,7 @@ p {
 }
 #verde{
     color: rgb(111, 184, 1);
+}
+.logos{
+    color: black;
 }
